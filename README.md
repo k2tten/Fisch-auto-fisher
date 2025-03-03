@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">This program is still WIP <br><br>i would appreciate some stars!<br>also if anyone is interested in helping w this project lmk<br><br>discord: .k2tten</p>
+<p align="left">This program is still WIP <br><br>i would appreciate some stars!<br>also if anyone is interested in helping w this project lmk<br><br>discord: <span style="font-size: 25px; line-height: 25px;">@.k2tten</span></p>
 
 ###
 
@@ -19,9 +19,6 @@
 ###
 
 <div align="left">
-  <a href=".k2tten" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
+  <img height="25" src="https://preview.redd.it/why-is-the-logo-color-darker-than-ever-before-v0-o4es5ad9ir8d1.png?width=619&format=png&auto=webp&s=74db3623276a5d6296a83a37243fe464e44e7d40"  />
+  <span style="font-size: 25px; line-height: 25px; vertical-align: middle;">@.k2tten</span>
 </div>
-
-###
